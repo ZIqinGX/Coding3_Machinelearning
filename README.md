@@ -32,7 +32,7 @@ The third notebook is my exploration based on final 1 and final 2 notebook. In t
 
 
 ![图片名称](https://raw.githubusercontent.com/ZIqinGX/Coding3_Machinelearning/main/coverpics/4.3.png) 
-![图片名称](https://raw.githubusercontent.com/ZIqinGX/Coding3_Machinelearning/main/coverpics/3.4.png) 
+![图片名称](https://raw.githubusercontent.com/ZIqinGX/Coding3_Machinelearning/main/coverpics/29cbeb9e01850f75dc22c7e9c5f2159.png) 
 
 
 ## Findings:
