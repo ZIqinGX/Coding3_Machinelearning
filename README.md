@@ -16,8 +16,8 @@ The second notebook is trying to further development and try different optimizin
 
 The third notebook is my exploration based on final 1 and final 2 notebook. In this practice, I mainly tried to figure out how the style of content picture will influence the outcome. I found that the content piccture has more color and stronger style and more content, it will remain more details after style transfered, otherwise, the content will be too less to see.
 
-![图片名称](https://raw.githubusercontent.com/ZIqinGX/Coding3_Machinelearning/main/Pictures/3.1.png) 
-![图片名称](https://raw.githubusercontent.com/ZIqinGX/Coding3_Machinelearning/main/Pictures/3.2.png) 
+![图片名称](https://raw.githubusercontent.com/ZIqinGX/Coding3_Machinelearning/main/coverpics/3.1.png) 
+![图片名称](https://raw.githubusercontent.com/ZIqinGX/Coding3_Machinelearning/main/coverpics/3.2.png) 
 
 ## Findings:
 1.From the exploration in the first notebook and second notebook, I found that the greater the difference in style between the content image and the style image, the more pronounced the effect of style transfer.
