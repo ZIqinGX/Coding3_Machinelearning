@@ -10,7 +10,8 @@ https://www.tensorflow.org/tutorials/generative/style_transfer#define_content_an
 
 
 ## What I did?
-The frist notebook is trying to understand how to do style transfer by using two ways: tensorflow Hub and VGG19. I mixed several style pictures with the same content picture.
+The frist notebook is trying to understand how to do style transfer by using two ways: tensorflow Hub and VGG19. I mixed several style pictures with the same content picture. I found that the more unlikely the content picture and the style picture are, the better or obvious mixed style picture can generated. I changed the training steps and feature extactor layers, finding that the training steps and the number of outline layer of VGG can also influence the extend of style mixture. The more training steps, the better mixture effect I can get. So I start to finding more support by trying more times on different pictures in second notebook
+
 The second notebook is trying to further development and try different optimizing way. The third notebook is my exploration based on final 1 and final 2 notebook. In this practice, I mainly tried to figure out how the style of content picture will influence the outcome.
 
 ## Findings:
