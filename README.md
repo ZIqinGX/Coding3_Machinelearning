@@ -28,7 +28,10 @@ The third notebook is my exploration based on final 1 and final 2 notebook. In t
 
 
 ![图片名称](https://raw.githubusercontent.com/ZIqinGX/Coding3_Machinelearning/main/coverpics/4.1.png) 
+![图片名称](https://raw.githubusercontent.com/ZIqinGX/Coding3_Machinelearning/main/coverpics/4.2.png) 
 ![图片名称](https://raw.githubusercontent.com/ZIqinGX/Coding3_Machinelearning/main/coverpics/3.4.png) 
+
+
 ## Findings:
 1.From the exploration in the first notebook and second notebook, I found that the greater the difference in style between the content image and the style image, the more pronounced the effect of style transfer.
 
