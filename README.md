@@ -7,7 +7,8 @@ https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time
 ## code reference:
 https://www.tensorflow.org/tutorials/generative/style_transfer#define_content_and_style_representations
 
-
+## link to video:
+https://youtu.be/aw_ygdpaOrM
 
 ## What I did?
 The frist notebook is trying to understand how to do style transfer by using two ways: tensorflow Hub and VGG19. I mixed several style pictures with the same content picture. I found that the more unlikely the content picture and the style picture are, the better or obvious mixed style picture can generated. I changed the training steps and feature extactor layers, finding that the training steps and the number of outline layer of VGG can also influence the extend of style mixture. The more training steps, the better mixture effect I can get. So I start to finding more support by trying more times on different pictures in second notebook
