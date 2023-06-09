@@ -21,5 +21,4 @@ The third notebook is my exploration based on final 1 and final 2 notebook. In t
 
 2.From the third practice in code, I found that the Tensorflow hub model can generate images mainly based on the style. The style image can influence outcome of style transferred picture heavily. By adjusting the weight of content and style picture, the value or influence of them on mixed result will change. So I can adjust pictures by change their weight.
 
-## Reference
-The reference code are:
+
